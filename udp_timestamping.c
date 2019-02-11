@@ -60,7 +60,9 @@ int main() {
             /*
             | SOF_TIMESTAMPING_TX_SCHED
             */
-            /* | SOF_TIMESTAMPING_TX_ACK */
+            /*
+            | SOF_TIMESTAMPING_TX_ACK
+            */
             ;
 
     flags = flags
